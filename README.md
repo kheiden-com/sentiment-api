@@ -4,6 +4,7 @@ This is a Docker container running a Flask-based sentiment analysis API. This AP
 
 Impact: This tool provides a simple yet effective solution for quick sentiment analysis, accessible via an easy-to-use REST API, making it versatile for various applications.
 
+https://hub.docker.com/r/kheidencom/sentiment-api
 
 ```
 docker pull kheidencom/sentiment-api

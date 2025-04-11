@@ -58,3 +58,7 @@ docker build -t kheidencom/sentiment-api .
 docker tag sentiment-api kheidencom/sentiment-api
 docker push kheidencom/sentiment-api
 ```
+
+### Acknowledgements
+
+This code was built and deployed in about 30 minutes with the help of AI.
